@@ -1,0 +1,3 @@
+[submodule "snake_n_ladder_lld"]
+	path = snake_n_ladder_lld
+	url = git@github.com:Satcheel/snake_n_ladder_lld.git
